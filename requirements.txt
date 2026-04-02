@@ -2,4 +2,4 @@ pandas
 requests
 matplotlib
 numpy
-sklearn
+scikit-learn
