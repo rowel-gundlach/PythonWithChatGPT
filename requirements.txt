@@ -7,3 +7,4 @@ openai
 langchain_experimental
 langchain
 langchain_openai
+openpyxl
