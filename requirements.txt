@@ -3,3 +3,7 @@ requests
 matplotlib
 numpy
 scikit-learn
+openai
+langchain_experimental
+langchain
+langchain_openai
